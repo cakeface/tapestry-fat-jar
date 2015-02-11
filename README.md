@@ -6,7 +6,7 @@ advantages of this approach are that you can package your jar and
 then just execute it on your server to get a working web application.
 There is no need to install a servlet container on the system.
 
-This was heavily inspired by Dropwizard. I recommend checking out anyone looking to
+This was heavily inspired by Dropwizard. I recommend that anyone looking to
 do REST services check out Dropwizard immediately.
 
 I may turn this into an archetype or library if I feel like it.
